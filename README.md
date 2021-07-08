@@ -72,25 +72,25 @@ Launch the jupyter notebook with `jupyter notebook` and launch a new C++ noteboo
 
 You can now make use of the C++ programming language in the Jupyter notebook.
 
-![A C++ notebook](notebook.png)
+![A C++ notebook](https://raw.githubusercontent.com/jupyter-xeus/xeus-cling/master/notebook.png)
 
 ### Inline help and tab-completion
 
 Quick help is shown on the pager with the special `?` magic.
 
-![Help](help.png)
+![Help](https://github.com/jupyter-xeus/xeus-cling/blob/master/help.png?raw=true)
 
 Content for the quick help is available for the standard library, and can be made available for third-party packages.
 
 ### Rendering of rich outputs
 
-![Rich output](rich-output.png)
+![Rich output](https://github.com/jupyter-xeus/xeus-cling/blob/master/rich-output.png?raw=true)
 
 ### Jupyter interactive widgets
 
 A C++ backend for the Jupyter interactive widgets is available in the [`xwidgets`](https://github.com/QuantStack/xwidgets/) package.
 
-![Widgets](widgets.gif)
+![Widgets](https://github.com/jupyter-xeus/xeus-cling/blob/master/widgets.gif?raw=true)
 
 ## Dependencies
 
